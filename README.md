@@ -1,4 +1,9 @@
 # TowardsTransaparentAI_vGHC2020
 
 ## Setup Instructions 
-available soon
+
+### Local setup
+
+### Binder Link
+
+### Docker container
