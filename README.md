@@ -42,4 +42,5 @@ See the [documentation](docs/docker.md) for more on Docker use.
 
 ### Binder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/janhavi13/TowardsTransaparentAI_vGHC2020.git/master)
+<br>
 Click on the binder badge above to run the sample notebook in your browser
