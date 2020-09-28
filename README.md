@@ -17,7 +17,10 @@ For best results please setup this repository on your local machine.
 ```bash
     conda create -n myenv python=3.6.8
     conda activate myenv
-    pip install requirements.txt
+    pip install torch==1.4.0 torchvision==0.5.0
+    pip install datasets
+    pip install interpret-text
+    pip install jupyter
 ```
 Note: If installing packages in requirements.txt one by one, make sure torch and torchvision is installed before the interpret-text package.
 
