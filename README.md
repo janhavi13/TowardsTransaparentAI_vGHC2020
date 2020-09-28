@@ -42,4 +42,4 @@ See the [documentation](docs/docker.md) for more on Docker use.
 
 ### Binder
 Click on the binder link below to run the notebook in your browser.
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/janhavi13/TowardsTransaparentAI_vGHC2020/setup_instructions)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/janhavi13/TowardsTransaparentAI_vGHC2020.git/master)
