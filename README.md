@@ -17,7 +17,7 @@ For best results please setup this repository on your local machine.
 ```bash
     conda create -n myenv python=3.6.8
     conda activate myenv
-    # Find the appropriate torch for your machine from this link: https://pytorch.org/get-started/previous-versions/
+    # Find the appropriate torch for your machine from this link: https://pytorch.org/get-started/locally/
     pip install torch==1.6.0 torchvision==0.7.0 
     pip install datasets
     pip install interpret-text
