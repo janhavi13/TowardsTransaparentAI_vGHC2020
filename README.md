@@ -35,7 +35,7 @@ Another way to run the repository content easily is via our pre-built Docker con
 To do so, run the following command:
 
 ```bash
-docker run -it -p 8888:8888 janhavim13/interprettext:latest
+docker run -it -p 8888:8888 -m=5g janhavim13/interprettext:latest
 ```
 
 Navigate to <http://localhost:8888/> in your web browser to run the sample
